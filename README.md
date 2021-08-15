@@ -3,7 +3,7 @@
 <h1 align="center">Web Scraping League of Legends</h2>
 <p align="center">In this project, Web Scraping was done using Python and Selenium for data extraction and presented in Google Data Studio.</p>
 
-<strong>Project link:</strong>https://datastudio.google.com/reporting/34925bcd-1c2e-44e2-9bda-7f3f78c30475
+<strong>Project link:</strong> https://datastudio.google.com/reporting/34925bcd-1c2e-44e2-9bda-7f3f78c30475
 
 ## :rocket: About the project
 
